@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
-using WebApplication6.Models;
+using WebApplication6.Models.ViewModels;
 
 namespace WebApplication6.Controllers
 {
